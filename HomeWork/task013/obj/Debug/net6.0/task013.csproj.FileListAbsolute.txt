@@ -1,0 +1,15 @@
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/bin/Debug/net6.0/task013
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/bin/Debug/net6.0/task013.deps.json
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/bin/Debug/net6.0/task013.runtimeconfig.json
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/bin/Debug/net6.0/task013.dll
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/bin/Debug/net6.0/task013.pdb
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.csproj.AssemblyReference.cache
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.AssemblyInfoInputs.cache
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.AssemblyInfo.cs
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.csproj.CoreCompileInputs.cache
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.dll
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/refint/task013.dll
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.pdb
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/task013.genruntimeconfig.cache
+/Users/ivanovy/Desktop/GEEKBRAINS/40922/HomeWork/task013/obj/Debug/net6.0/ref/task013.dll
